@@ -1,2 +1,6 @@
+*.log
+__pycache__/
+.idea/
+.vscode/
 py_develop
 py_develop.pub
